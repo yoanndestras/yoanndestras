@@ -10,7 +10,7 @@
 > 📫 **contact@ydestras.fr**
 
 <h3 align="left">Stats</h3>
-<img style="max-width: 40%" align="left" src="https://metrics.lecoq.io/yoanndestras?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Europe%2FParis">
+<img style="max-width: 40%" align="left" src="/.github/workflows/github-metrics.svg">
 
 <h3 align="left"">Socials</h3>
 <p align="left">
