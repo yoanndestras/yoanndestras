@@ -10,7 +10,7 @@
 > 📫 **contact@ydestras.fr**
 
 <h3 align="left">Stats</h3>
-<img style="max-width: 40%" align="left" src="/.github/workflows/github-metrics.svg">
+<img style="max-width: 40%" align="left" src="/github-metrics.svg">
 
 <h3 align="left"">Socials</h3>
 <p align="left">
