@@ -12,7 +12,7 @@
 
 <br>
 <img style="max-width: 40%" align="left" src="/metrics.terminal.svg">
-<img style="max-width: 40%" align="left" src="/github-metrics.svg">
+<img style="max-width: 40%" align="left" src="/github-calendar.svg">
 
 
 <h3 align="left">Skills</h3>
