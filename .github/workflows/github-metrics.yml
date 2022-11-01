@@ -14,4 +14,7 @@ jobs:
           filename: github-calendar.svg
           token: ${{ secrets.METRIC_TOKEN }}
           base: ""
+          plugin_languages: yes
+          commits_authoring: yoann destras, yoanndestras, yoanndestras@users.noreply.github.com
+          plugin_languages_indepth: yes
           plugin_isocalendar: yes
