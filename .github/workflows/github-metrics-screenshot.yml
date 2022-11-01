@@ -1,0 +1,20 @@
+name: Screenshot
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with: 
+          filename: metrics.plugin.screenshot.svg
+          base: ""
+          base: ""
+          plugin_screenshot: yes
+          plugin_screenshot_title: Nutritiv screen of the day
+          plugin_screenshot_url: https://nutritiv.app
+          plugin_screenshot_selector: "#comic img"
