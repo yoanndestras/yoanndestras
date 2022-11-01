@@ -1,4 +1,4 @@
-name: Full-year calendar
+name: Metrics
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
@@ -11,9 +11,12 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
+          filename: metrics.plugin.isocalendar.fullyear.svg, metrics.plugin.code.svg
           token: ${{ secrets.METRIC_TOKEN }}
           base: header, repositories
           plugin_lines: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          plugin_code: yes
+          plugin_code_languages: javascript, typescript
+          plugin_code_load: 400
