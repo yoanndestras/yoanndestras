@@ -15,3 +15,5 @@ jobs:
           filename: metrics.terminal.svg
           token: ${{ secrets.METRIC_TOKEN }}
           base: header, metadata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
