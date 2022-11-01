@@ -16,7 +16,7 @@
 
 
 <h3 align="left">Skills</h3>
-<p align="left"> 
+<p align="left">  
   
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://www.svgrepo.com/show/354118/nodejs.svg" alt="nodejs" width="135" height="110"/> 
