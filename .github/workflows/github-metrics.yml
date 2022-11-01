@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with: 
-          filename: github-calenda.svg
+          filename: github-calendar.svg
           token: ${{ secrets.METRIC_TOKEN }}
           base: ""
           plugin_languages: yes
