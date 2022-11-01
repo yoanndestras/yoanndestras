@@ -10,7 +10,7 @@ jobs:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
-        with:
+        with: 
           filename: github-metrics.svg
           token: ${{ secrets.METRIC_TOKEN }}
           base: header, repositories
