@@ -1,5 +1,6 @@
 <h1 align="center">:low_brightness:Hi , I'm Yoann Destras:low_brightness:</h1>
 <h3 align="center">:leaves: A passionate backend developer from France :leaves:</h3>
+<br>
 
 > 🔭 I’m currently working on [Nutritiv](https://nutritiv.app) at [KIWI LABS™](https://discord.gg/J7FBYgwRZR) :kiwi_fruit:
 
@@ -9,7 +10,7 @@
 
 > 📫 **contact@ydestras.fr**
 
-<h3 align="left">Stats</h3>
+<br>
 <img style="max-width: 40%" align="left" src="/metrics.terminal.svg">
 <!-- <img style="max-width: 40%" align="left" src="/github-metrics.svg"> -->
 
