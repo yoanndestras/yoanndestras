@@ -19,15 +19,15 @@
 <p align="left">  
   
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/354118/nodejs.svg" alt="nodejs" width="135" height="110"/> 
+  <img src="https://www.svgrepo.com/show/354118/nodejs.svg" alt="nodejs" width="70" height="70"/> 
   </a> 
   
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-  <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" alt="express" width="110" height="110"/> 
+  <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" alt="express" width="70" height="70"/> 
   </a> 
   
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mongodb_logo_icon_170944.png" alt="mongodb" width="190" height="110"/> 
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mongodb_logo_icon_170944.png" alt="mongodb" width="110" height="70"/> 
   </a> 
   
   <br>
