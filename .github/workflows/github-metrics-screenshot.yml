@@ -16,5 +16,5 @@ jobs:
           token: NOT_NEEDED
           plugin_screenshot: yes
           plugin_screenshot_title: Nutritiv screen of the day
-          plugin_screenshot_url: https://nutritiv.app
+          plugin_screenshot_url: https://nutritiv-staging.herokuapp.com
           plugin_screenshot_selector: "#comic img"
