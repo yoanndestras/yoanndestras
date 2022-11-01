@@ -13,6 +13,7 @@ jobs:
         with: 
           filename: metrics.plugin.screenshot.svg
           base: ""
+          token: NOT_NEEDED
           plugin_screenshot: yes
           plugin_screenshot_title: Nutritiv screen of the day
           plugin_screenshot_url: https://nutritiv.app
