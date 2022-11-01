@@ -14,6 +14,5 @@ jobs:
           filename: github-metrics.svg
           token: ${{ secrets.METRIC_TOKEN }}
           base: header, repositories
-          plugin_code: yes
-          plugin_code_languages: javascript, typescript
-          plugin_code_load: 400
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
