@@ -10,7 +10,7 @@ jobs:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
-        with: 
+        with:
           filename: metrics.plugin.screenshot.svg
           base: ""
           token: NOT_NEEDED
