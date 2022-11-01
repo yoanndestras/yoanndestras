@@ -11,10 +11,11 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with: 
-          filename: github-calendar-and-most-used.svg
+          filename: github-calenda.svg
           token: ${{ secrets.METRIC_TOKEN }}
           base: ""
           plugin_languages: yes
-          commits_authoring: yoann destras, yoanndestras, yoanndestras@users.noreply.github.com
-          plugin_languages_indepth: yes
+          plugin_languages_sections: recently-used
+          plugin_languages_recent_load: 400
+          plugin_languages_recent_days: 14
           plugin_isocalendar: yes
