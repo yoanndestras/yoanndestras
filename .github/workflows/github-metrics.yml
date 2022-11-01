@@ -11,8 +11,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with: 
-          filename: github-metrics.svg
+          filename: github-calendar.svg
           token: ${{ secrets.METRIC_TOKEN }}
-          base: header, repositories
+          base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
