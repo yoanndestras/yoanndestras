@@ -63,5 +63,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/yoann-destras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yoann-destras" height="45" width="60" /></a>
 <a href="https://stackoverflow.com/users/16842670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16842670" height="45" width="60" /></a>
-<a href="https://discord.gg/1745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1745" height="45" width="60" /></a>
+<a href="https://discordapp.com/users/175698802554961920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1745" height="45" width="60" /></a>
 </p>
