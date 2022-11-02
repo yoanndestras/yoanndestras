@@ -11,9 +11,9 @@
 > 📫 **contact@ydestras.fr**
 
 <br>
-<img style="max-width: 30%" align="left" src="/metrics.terminal.svg">
-<img style="max-width: 30%" align="left" src="/github-calendar.svg">
-<img style="max-width: 30%" align="left" src="/metrics.plugin.screenshot.svg">
+<img style="width: 40%" align="left" src="/metrics.terminal.svg">
+<img style="width: 40%" align="left" src="/github-calendar.svg">
+<img style="width: 40%" align="left" src="/metrics.plugin.screenshot.svg">
 
 <h3 align="left">Skills</h3>
 <p align="left">  
