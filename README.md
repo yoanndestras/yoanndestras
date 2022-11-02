@@ -1,12 +1,12 @@
-<h1 align="center">:low_brightness:Hi , I'm Yoann Destras:low_brightness:</h1>
-<h3 align="center">:leaves: A passionate backend developer from France :leaves:</h3>
+<h1 align="center">:leaves:Hi, I'm Yoann Destras:leaves:</h1>
+<h3 align="center">:low_brightness: A passionate backend developer from France :low_brightness:</h3>
 <br>
 
-> 🔭 I’m currently working on [Nutritiv](https://nutritiv.app) at [KIWI LABS™](https://discord.gg/J7FBYgwRZR) :kiwi_fruit:
+> 🔭 I’m currently working on [Nutritiv](https://nutritiv.app) at [KIWI LABS™](https://discord.gg/J7FBYgwRZR) :kiwi_fruit: 
 
-> 🌱 Learning **Webflow** to build my portfolio, after this I will learn **Python**
+> 🌱 Learning **Webflow** to build my portfolio, if you wanna check the current version it's available [here](https://yoanns-portfolio.webflow.io/)
 
-> :coffee: Ask me about **RESTful API, MERN stack, Amazon web services**
+> :coffee: Ask me about **MERN stack, RESTful API or Amazon web services**
 
 > 📫 **contact@ydestras.fr**
 
