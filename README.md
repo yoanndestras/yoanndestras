@@ -12,7 +12,7 @@
 
 <br>
 <img style="width: 60%" align="left" src="/metrics.terminal.svg">
-<img style="width: 50%; margin-right: 60%" align="left" src="/github-calendar.svg">
+<!-- <img style="width: 50%; margin-right: 60%" align="left" src="/github-calendar.svg"> -->
 
 <!--- <img style="width: 40%" align="left" src="/metrics.plugin.screenshot.svg"> -->
 
