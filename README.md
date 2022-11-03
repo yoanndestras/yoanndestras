@@ -6,7 +6,7 @@
 
 > 🌱 Learning **Webflow** to build my portfolio, if you wanna check the current version it's available [here](https://yoanns-portfolio.webflow.io/)
 
-> :coffee: Ask me about **MERN stack, RESTful API or Amazon web services**
+> :coffee: Ask me about **MERN stack, RESTful API, AWS,** or my protein shake recipe to **make :muscle: gainz & staying healthy :green_heart:**
 
 > 📫 **contact@ydestras.fr**
 
