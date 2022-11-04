@@ -10,6 +10,7 @@
 
 > 📫 **contact@ydestras.fr**
 
+> :art: Profile picture made by **[@lawilnet](https://www.instagram.com/lawilnet/):butterfly:**
 <br>
 <img style="width: 60%" align="left" src="/metrics.terminal.svg">
 <!-- <img style="width: 50%; margin-right: 60%" align="left" src="/github-calendar.svg"> -->
@@ -71,7 +72,3 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1745" height="45" width="60" />
   </a>
 </p>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-> Profile picture made by [@lawilnet](https://www.instagram.com/lawilnet/):butterfly:
