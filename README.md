@@ -4,7 +4,7 @@
 
 > 🔭 I’m currently working on [Nutritiv](https://nutritiv.app) at [KIWI LABS™](https://discord.gg/J7FBYgwRZR) :kiwi_fruit: 
 
-> 🌱 Learning **Webflow** to build my portfolio, if you wanna check the current version it's available [here](https://yoanns-portfolio.webflow.io/)
+> 🌱 Learning **Webflow** to build my portfolio, if you wanna check the current version it's available [here](https://ydestras.webflow.io/)
 
 > :coffee: Ask me about **MERN stack, RESTful API, AWS,** or my protein shake recipe to **make :muscle: gainz & staying healthy :green_heart:**
 
