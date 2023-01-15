@@ -2,15 +2,15 @@
 <h3 align="center">:low_brightness: A passionate backend developer from France :low_brightness:</h3>
 <br>
 
-> 🔭 I’m currently working on [Nutritiv](https://nutritiv.app) at [KIWI LABS™](https://discord.gg/J7FBYgwRZR) :kiwi_fruit: 
+> 🧠 I’m currently learning **Typescript** & **Sveltkit** by working on **[Simplyholidays](https://github.com/NathanLeadill/simplyholidays)** at **[KIWI LABS™](https://discord.gg/J7FBYgwRZR)** :kiwi_fruit: 
 
-> 🌱 My **Webflow** portfolio it's available [here](https://ydestras.webflow.io/)
+> 🌱 Checkout my **Webflow** portfolio **[here](https://ydestras.webflow.io/)** and my biggest project ever **[Nutritiv](https://www.nutritiv.app/welcome)** :blue_heart:
 
-> :coffee: Ask me about **MERN stack, RESTful API, AWS,** or my protein shake recipe to **make :muscle: gainz & staying healthy :green_heart:**
+> :coffee: Ask me about **MERN stack, RESTful API, AWS,** or my protein shake recipe to **make :muscle: gain & staying healthy :green_heart:**
 
 > 📫 **contact@ydestras.fr**
 
-> :art: Profile picture made by **[@lawilnet](https://www.instagram.com/lawilnet/):butterfly:**
+> :art: Profile picture made by **[@lawilnet](https://www.instagram.com/lawilnet/)**:butterfly:
 <br>
 <img style="width: 60%" align="left" src="/metrics.terminal.svg">
 <!-- <img style="width: 50%; margin-right: 60%" align="left" src="/github-calendar.svg"> -->
@@ -32,6 +32,10 @@
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mongodb_logo_icon_170944.png" alt="mongodb" width="110" height="70"/> 
   </a> 
   
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.tutorialsteacher.com/Content/images/home/typescript.svg" alt="typescript" width="110" height="70"/> 
+  </a> 
+  
   <br>
   
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
@@ -42,8 +46,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="aws" width="60" height="50"/> 
   </a> 
   
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="50"/> 
+  <a href="https://kit.svelte.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://styles.redditmedia.com/t5_3htkz/styles/communityIcon_5gn47dhdp4o31.png" alt="sveltkit" width="60" height="50"/> 
   </a>  
   
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
