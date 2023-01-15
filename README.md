@@ -32,10 +32,6 @@
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mongodb_logo_icon_170944.png" alt="mongodb" width="110" height="70"/> 
   </a> 
   
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.tutorialsteacher.com/Content/images/home/typescript.svg" alt="typescript" width="110" height="70"/> 
-  </a> 
-  
   <br>
   
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
@@ -50,17 +46,17 @@
   <img src="https://styles.redditmedia.com/t5_3htkz/styles/communityIcon_5gn47dhdp4o31.png" alt="sveltkit" width="60" height="50"/> 
   </a>  
   
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.tutorialsteacher.com/Content/images/home/typescript.svg" alt="typescript" width="60" height="50"/> 
+  </a> 
+  
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/> 
   </a> 
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
-  </a> 
-  
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/> 
-  </a> 
+  </a>  
   
 </p>
 
