@@ -2,7 +2,7 @@
 <h3 align="center">:low_brightness: A passionate backend developer from France :low_brightness:</h3>
 <br>
 
-> 🧠 I’m currently learning **Typescript** & **Sveltkit** by working on **[Simplyholidays](https://github.com/NathanLeadill/simplyholidays)** at **[KIWI LABS™](https://discord.gg/J7FBYgwRZR)** :kiwi_fruit: 
+> 🧠 I’m currently learning **Windev* by working at **[Qualigest](http://www.logiciel-qualite.fr/)**
 
 > 🌱 Checkout my **Webflow** portfolio **[here](https://ydestras.webflow.io/)** and my biggest project ever **[Nutritiv](https://www.nutritiv.app/welcome)** :blue_heart:
 
